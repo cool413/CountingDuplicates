@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicates", "CountingDuplicates\CountingDuplicates.csproj", "{1E99E4F9-C8EC-463F-AD71-15B9C6BD61E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{0D4DFFFB-F0CF-423F-861E-CB0AB8D08DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E99E4F9-C8EC-463F-AD71-15B9C6BD61E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E99E4F9-C8EC-463F-AD71-15B9C6BD61E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E99E4F9-C8EC-463F-AD71-15B9C6BD61E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E99E4F9-C8EC-463F-AD71-15B9C6BD61E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4DFFFB-F0CF-423F-861E-CB0AB8D08DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4DFFFB-F0CF-423F-861E-CB0AB8D08DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4DFFFB-F0CF-423F-861E-CB0AB8D08DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4DFFFB-F0CF-423F-861E-CB0AB8D08DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
